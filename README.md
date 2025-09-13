@@ -1,24 +1,32 @@
+-----------------------------------------------------------------------------
+**How to import it to your MicroBot?**
 
-> Open this page at [https://ordekaamb.github.io/micropetv1/](https://ordekaamb.github.io/micropetv1/)
+1 - Copy **"https://github.com/ordekaamb/MicroPetV1"**
 
-## Use as Extension
+2 - Go to **"https://makecode.microbit.org"**.
 
-This repository can be added as an **extension** in MakeCode.
+3 - Press **"Import"**
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/ordekaamb/micropetv1** and import
+4 - Press **"Import URL"**
 
-## Edit this project
+5 - Paste the URL to the writing box.
 
-To edit this repository in MakeCode.
+6 - Press "Go ahead!" and enjoy playing it!
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/ordekaamb/micropetv1** and click import
+-----------------------------------------------------------------------------
 
-#### Metadata (used for search, rendering)
+**How to play it?**
 
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+1 - Start collecting food for your pet by pressing "B" button on your MicroBot.
+
+2 - Feed your pet for +5 hunger by pressing "A" button on your MicroBot.
+
+3 - You can see your food number by pressing "A" and "B" buttons together.
+
+4 - It'll warn you if hunger goes down to 10.
+
+5 - Do not spam the buttons or it will be bugged.
+
+6 - Stay tuned for more updates.
+
+-----------------------------------------------------------------------------
