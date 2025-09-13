@@ -3,7 +3,7 @@
 
 1 - Copy **"https://github.com/ordekaamb/MicroPetV1"**
 
-2 - Go to **"https://makecode.microbit.org"**.
+2 - Go to **"https://makecode.microbit.org"**
 
 3 - Press **"Import"**
 
