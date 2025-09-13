@@ -1,3 +1,5 @@
+**Important:** This is a beta version of MicroPet, please wait for updates.
+
 -----------------------------------------------------------------------------
 **How to import it to your MicroBot?**
 
